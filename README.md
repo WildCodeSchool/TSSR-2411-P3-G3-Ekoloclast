@@ -31,7 +31,7 @@ Liste des départements :
 
 ### Réseau
 - Réseau wifi fourni par une box FAI et des répéteurs wifi pour les utilisateurs internes.
-- L'ensemble du réseau est en 192.168.10.0/24.
+- L'ensemble du réseau est en 172.24.0.0/16.
 - Tous les PC sont en workgroups avec connexion via mot de passe faible.
 
 ### Messagerie

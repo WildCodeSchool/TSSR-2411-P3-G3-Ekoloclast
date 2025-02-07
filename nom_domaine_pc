@@ -1,0 +1,17 @@
+**Changer le nom de domaine du PC Windows 10 (poste client)**
+
+Prérequis : Dans la configuration IPv4, le DNS doit être celui du serveur ADDS soit 172.24.10.1
+
+
+1) Allez dans l'expolorateur de fichiers 
+2) Clique droit sur 'this pc"/properties
+3) rename this PC (adbvanced)
+4) cliquer sur "Change"
+5) Cocher Domaine et saisir Ekoloclast.lan
+6) Saisir le nom "Administrateur" et le mot de passe "Azerty1*"
+7) Un message s'affiche à l'écran pour valider l'accès du PC au nom de domaine
+8) Redémarrer le PC
+
+
+
+

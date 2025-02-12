@@ -33,7 +33,7 @@
 
 
 
-**Changer le nom de domaine du PC Windows 10 (poste client)**
+# **Changer le nom de domaine du PC Windows 10 (poste client)**
 
 
 Prérequis : Dans la configuration IPv4, le DNS doit être celui du serveur ADDS soit 172.24.10.1

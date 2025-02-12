@@ -3,7 +3,7 @@
 Prérequis : Dans la configuration IPv4, le DNS doit être celui du serveur ADDS soit 172.24.10.1
 
 
-1) Allez dans l'expolorateur de fichiers 
+1) Allez dans l'explorateur de fichiers 
 2) Clique droit sur 'this pc"/properties
 3) rename this PC (adbvanced)
 4) cliquer sur "Change"

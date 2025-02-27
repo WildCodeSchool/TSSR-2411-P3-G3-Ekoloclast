@@ -14,13 +14,14 @@ Ce guide explique comment configurer un volume en RAID 1 sur un système Windows
 
 1. Cliquez sur le bouton **Démarrer** et tapez **"Gestion des disques"** dans la barre de recherche.
 2. Sélectionnez **"Créer et formater des partitions de disque dur"**.
+3. Arrivés sur la fenêtre ci dessous, initialisez les disques.
 
 ![1Gestion de disques_initialisation de disques](https://github.com/user-attachments/assets/1866c255-f425-48aa-a3d0-35c5081f4cf1)
 
 
 ---
 
-### Étape 2 : Initialiser les disques (si nécessaire)
+### Étape 2 : 
 
 Si vos disques n'ont pas encore été initialisés, vous serez invité à les initialiser avant de pouvoir créer le RAID.
 

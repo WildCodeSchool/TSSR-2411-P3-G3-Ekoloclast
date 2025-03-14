@@ -1,17 +1,17 @@
 # WSUS   🥅
-  - Dans un premier temps, il faut aller dans le menu ci-dessous afin d'ajouter un nouveau rôle à notre serveur
+  - Dans un premier temps, il faut aller dans le menu ci-dessous afin d'ajouter un nouveau rôle à notre serveur.
 
 ![DP1 ajouter roles](https://github.com/user-attachments/assets/d010f9af-6f5f-4f4e-9da6-f71ba9f4db93)
 ----------
 
 ## ***Déploiement du gestionnaire de mise à jour***
 
-  - Dans cette nouvelle fenêtre, laisser tout les parametres par défauts, cliquer sur suivant pour arriver à l'ajout d'un nouveau rôle, puis cliquer sur suivant 
+  - Dans cette nouvelle fenêtre, laisser tous les paramètres par défauts, cliquer sûr suivant pour arriver à l'ajout d'un nouveau rôle, puis cliquer sûr suivant 
 
 ![WSUS](https://github.com/user-attachments/assets/2f5dfaf5-4cc7-498b-a5de-fab2eba2343e)
 ----------
 
-  - Ici les deux premieres cases sont cocher par défauts, faites suivant 
+  - Ici, les deux premières cases sont cochées par défauts, faites suivant. 
 
 ![WSUS 2](https://github.com/user-attachments/assets/5d9aedbe-417f-4589-918c-be2c7c603025)
 ----------
@@ -28,16 +28,16 @@
 
 ![WSUS 5](https://github.com/user-attachments/assets/f0a96c36-cffc-4b17-afbe-5edfdec9706f)
 ----------
-  - Le déploiement est terminer, vous pouvez installer
+  - Le déploiement est terminé, vous pouvez installer.
 
 ## ***Post-déploiement***
-  - Une action est requise pour que le post-déploiement se fasse automatiquement, au niveau du petit drapeau en haut à droite
+  - Une action est requise pour que le post-déploiement se fasse automatiquement, au niveau du petit drapeau en haut à droite.
 
 ![WSUS 7](https://github.com/user-attachments/assets/9bdcad8a-e122-4b40-b6ca-a51ffa0c213d)
 ----------
 ![WSUS 6](https://github.com/user-attachments/assets/451710fd-dd85-4cb7-a39e-194fc665c1b6)
 ----------
-Dés que tout le déploiement est réalisé, aller sur l'onglet Wsus dans le gestionnaire de service et clique droit sur votre serveur afin de vous rendre dans la section gestion de Wsus
+Dès que tout le déploiement est réalisé, aller sur l'onglet Wsus dans le gestionnaire de service et clique droit sur votre serveur afin de vous rendre dans la section gestion de Wsus
 
 ## ***Configuration***
 
@@ -54,7 +54,7 @@ Dés que tout le déploiement est réalisé, aller sur l'onglet Wsus dans le ges
 ----------
 ![WSUS 12](https://github.com/user-attachments/assets/2e2f64f8-df74-4456-b0fd-07ceffd52fd8)
 ----------
-  - Cette opération peux prendre en générale entre 10/20 minutes
+  - Cette opération peut prendre en général entre 10/20 minutes.
 
 ![WSUS 13](https://github.com/user-attachments/assets/a048330f-0dab-4d0f-8810-c85b5216497a)
 ----------
@@ -66,13 +66,13 @@ Dés que tout le déploiement est réalisé, aller sur l'onglet Wsus dans le ges
 
 ![WSUS 16](https://github.com/user-attachments/assets/c4f5a6b3-63c1-4cf4-9e13-14a060153bc3)
 ----------
-  - Selection de produits Microsoft
+  - Sélection de produits Microsoft
 
 ![WSUS 17](https://github.com/user-attachments/assets/faa45270-4163-4582-8dcd-600dd592730e)
 ----------
 ![WSUS 18](https://github.com/user-attachments/assets/e3f2034e-987b-447a-ac57-448b5a10a575)
 ----------
-  - Configurer la synchronisation automatique des mise à jour, j'ai configurer pour qu'elles se mettent en place à partir de 2h du matin, à 4 reprise
+  - Configurez la synchronisation automatique des mises à jour, j'ai configuré pour qu'elles se mettent en place à partir de 2 h du matin, à 4 reprises
 
 ![WSUS 19](https://github.com/user-attachments/assets/e857d37f-598b-49bd-8335-1f1159c75f26)
 ----------

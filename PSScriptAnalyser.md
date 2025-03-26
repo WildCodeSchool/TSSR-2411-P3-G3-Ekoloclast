@@ -28,7 +28,7 @@ La présence d'espace à la fin de la ligne 6. En effet, il y a des espaces à l
 ![psscript4](https://github.com/user-attachments/assets/3ecb8efa-b650-417a-ac85-812f1b78e7ca)
 
 
-**6) On test le script à nouveau et on s'aperçoit que les erreurs ont disparu**
+**6) On teste le script à nouveau et on s'aperçoit que les erreurs ont disparu**
 ---
 ![psscript5](https://github.com/user-attachments/assets/53202c96-8c13-44c9-bd03-06141a84ceb1)
 

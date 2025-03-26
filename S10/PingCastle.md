@@ -176,4 +176,12 @@ https://www.pingcastle.com/documentation/
 ----
 
 ![Proxmox ping1](https://github.com/user-attachments/assets/3670a351-849a-4481-ac40-e2fc023f676a)
+----
+
+![Proxmox ping2](https://github.com/user-attachments/assets/ce879871-c7b3-4ea2-b49a-fdc5fcc69bc2)
+----
+
+![Proxmox ping3](https://github.com/user-attachments/assets/ca6ee8f1-d188-4d49-94dc-3bdb2ccf8685)
+----
+
 

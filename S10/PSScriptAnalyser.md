@@ -32,4 +32,9 @@ La présence d'espace à la fin de la ligne 6. En effet, il y a des espaces à l
 ---
 ![psscript5](https://github.com/user-attachments/assets/53202c96-8c13-44c9-bd03-06141a84ceb1)
 
+**7) PSScriptAnalyzer dans visual studio code**
+---
+PSScriptAnalyzer est pris en charge nativement dans Visual Studio Code. Ainsi, si nous utilisons un alias dans un script, ce dernier est immédiatement mis en évidence et VSCode, par l'intermédiaire de PSScriptAnalyzer, nous indique qu'il est déconseillé d'utiliser un alias. 
+
+![psscript6](https://github.com/user-attachments/assets/f651650e-a26e-4770-91e1-35a8ec2b81ba)
 

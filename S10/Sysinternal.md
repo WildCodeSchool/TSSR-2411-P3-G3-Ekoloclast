@@ -5,7 +5,7 @@
 **But** : Cet outil permet de vérifier les droits d'accès d'un utilisateur ou d'un groupe sur un objet (dossier, fichier, clé de registre, etc.).
 
 ### Étapes :
-1. **Téléchargement de Sysinternals** : Si la suite Sysinternals n’est pas encore téléchargée, elle peut être obtenue à partir du site officiel [Microsoft Sysinternals](https://learn.microsoft.com/fr-fr/sysinternals/downloads/security-utilities).
+1. **Téléchargement de Sysinternals** : A partir du site officiel [Microsoft Sysinternals](https://learn.microsoft.com/fr-fr/sysinternals/downloads/security-utilities).
    
 2. **Exécution d'AccessChk** :
    - Ouvrir une invite de commandes **en tant qu’administrateur**.

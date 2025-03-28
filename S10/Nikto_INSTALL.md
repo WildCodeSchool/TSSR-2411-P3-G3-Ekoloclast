@@ -83,4 +83,13 @@ FileETag None
 Dans `/etc/apache2/apache2.conf` (ou `/etc/httpd/conf/httpd.conf`), ajoutez :
 ```apache
 <IfModule mod_headers.c>
-    Header always set Content-Security-Policy "defaul
+    # Content Security Policy
+    Header always set Content-Security-Policy "default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; frame-src 'none'; object-src 'none'; base-uri 'self'; form-action 'self'"
+
+    # Autres en-têtes de sécurité recommandés
+    Header always set X-Content-Type-Options "nosniff"
+    Header always set X-Frame-Options "DENY"
+    Header always set X-XSS-Protection "1; mode=block"
+    Header always set Referrer-Policy "strict-origin-when-cross-origin"
+    Header always set Permissions-Policy "geolocation=(), microphone=(), camera=()"
+</IfModule>
